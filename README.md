@@ -336,13 +336,24 @@ plt.show()
 
 ## OUTPUT
 
-
-
 <img width="518" height="312" alt="image" src="https://github.com/user-attachments/assets/3261a998-02f1-43aa-883b-1ca002d635d0" />
 
 
 
+
+
+
+
+
+
+
 <img width="475" height="530" alt="image" src="https://github.com/user-attachments/assets/d2606cbf-ad7d-4cb1-8ef6-597787d196a9" />
+
+
+
+
+
+
 
 
 
